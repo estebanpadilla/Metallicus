@@ -1,2 +1,0 @@
-# Metallicus
-A game idea
